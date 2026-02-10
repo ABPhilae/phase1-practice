@@ -1,0 +1,22 @@
+# Python cache files (generated when Python runs your code)
+__pycache__/
+*.pyc
+
+# Virtual environment (your project's private library folder)
+venv/
+.venv/
+
+# Environment variables file (contains your SECRET API keys)
+.env
+
+# IDE settings (personal to each developer)
+.vscode/
+.idea/
+
+# Docker volumes and logs
+*.log
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
